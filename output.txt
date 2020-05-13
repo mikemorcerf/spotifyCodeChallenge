@@ -1,1 +1,4 @@
-  t t tt t   t t  t t    tt  t   tt tt t t  t  t tt     t  tt tt t t   
+The unique set of characters created is: [ , t, e, a, o, r, h, s, l, i, u, c]
+The initial text without the characters from the unique set has length of 50
+and looks like the following:
+Ifywnjmppfkngb,'ng:wpgmpgnqfnbmvdfmpgpwngngdpbw50.
